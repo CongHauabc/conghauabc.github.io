@@ -140,6 +140,12 @@ img{
     align-items: center;
     justify-content: space-between;
 }
+.nav img{
+    width: 40%;
+    
+    display: flex;
+    align-self: center;
+}
 .nav__logo,
 .nav__toggle{
     color: var(--title-color);
