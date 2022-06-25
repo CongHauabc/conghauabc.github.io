@@ -1,3 +1,4 @@
 Portfolio
 https://conghauabc.github.io/
-![image](https://user-images.githubusercontent.com/96273974/165132217-77125266-b362-4bc2-8200-763534e3b64d.png)
+![image](https://user-images.githubusercontent.com/96273974/175767078-bdf98533-cb62-41e8-b5ad-3bfc755350f4.png)
+
